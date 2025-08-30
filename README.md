@@ -1,7 +1,7 @@
-## Hi there 👋
+## *Feeding my 🐍 with commits before it decides* I’m the snack!!
 
 
-![snake gif](https://github.com/GigaKrish/GigaKrish/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/GigaKrish/GigaKrish/output/github-snake-dark.svg)
 
 <!--
 **GigaKrish/GigaKrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
